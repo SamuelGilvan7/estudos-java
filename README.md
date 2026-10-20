@@ -40,7 +40,6 @@ git clone https://github.com/SamuelGilvan7/estudos-java.git
 
 4. Executa a classe Main.java.
 
-Desenvolvido por Samuel Gilvan como parte da minha jornada de estudos e evolução em tecnologia!
 
 
 ---
